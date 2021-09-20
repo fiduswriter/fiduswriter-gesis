@@ -9,11 +9,9 @@ To install run this on the command line:
 
 ```
 sudo bash
-apt install python3-pip
 cd /var/snap/fiduswriter/current
 git clone git@github.com:fiduswriter/fiduswriter-gesis.git
 ln -s fiduswriter-gesis/gesis .
-pip3 install -r tum/requirements.txt --target .
 exit
 sudo fiduswriter.configure
 ```
