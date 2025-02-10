@@ -2,6 +2,9 @@
 
 Fidus Writer integration for the Fidus Writer instance of GESIS.
 
+**DEPRECATED: No longer needed as of Fidus Writer 4.0, as it only adds an impressum link to the page bottom. This type of link can now be added using the `FOOTER_LINKS` configuration setting.**
+
+
 Installation
 ============
 
